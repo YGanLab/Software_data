@@ -12,7 +12,8 @@ Here is a list of projects with data and code source.
 
     A novel graph convolutional network (GCN)-assisted two-stage framework is proposed to simultaneously label the nine retinal layers and the optic disc. 
 
-    ![](https://raw.githubusercontent.com/Jiaxuan-Li/MGU-Net/main/figs/fig2.png)
+    <img src="https://raw.githubusercontent.com/Jiaxuan-Li/MGU-Net/main/figs/fig2.png" width="400">
+
 
 - **Inpainting for saturation artifacts in optical coherence tomog-raphy using dictionary-based sparse representation,** *IEEE Photonics Journal, vol. 13, no. 2, pp. 1–10.* [[code]](https://github.com/YGanLab/OCT-Inpainting)
 
@@ -20,7 +21,7 @@ Here is a list of projects with data and code source.
 
     In this paper, we propose a novel method to localize and correct saturation artifacts in SD-OCT images. Specifically, we formulate the artifact removal problem as an image inpainting problem and adopt sparse representation framework to solve it.
 
-    ![](https://raw.githubusercontent.com/YGanLab/OCT-Inpainting/main/figs/1.JPG)
+    <img src="https://raw.githubusercontent.com/YGanLab/OCT-Inpainting/main/figs/1.JPG" width="400">
 
 - **On the spectral leakageand speckle formation in fourier-domain optical coherence tomography,** *Optics Letter, 2020.* [[code]](https://github.com/MengyuanWang524/Super-resolution-OCT)
 
@@ -42,7 +43,8 @@ Here is a list of projects with data and code source.
 
     In this paper, we propose a novel deep learning framework, namely Co-Seg, to collaboratively train segmentation networks on datasets which include low-quality noisy labels.   
 
-    ![](https://raw.githubusercontent.com/YGanLab/Software_data/main/figs/coseg.JPG)
+    <img src="https://raw.githubusercontent.com/YGanLab/Software_data/main/figs/coseg.JPG" width="400">
+
 
 - **Hydranet: A multi-branch convolutional neuralnetwork architecture for MRI denoising,** *SPIE Medical Imaging, 2021.* [[data & code]](https://github.com/stephenhgregory/HydraNet)
 
