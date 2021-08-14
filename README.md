@@ -10,7 +10,7 @@ Here is a list of projects with data and code source.
 
     *Li, J., Jin, P., Zhu, J., Zou, H., Xu, X., Tang, M., Zhou, M., Gan, Y., He, J., Ling, Y. and Su, Y.*
 
-    An accurate and automated tissue segmentation algorithm for retinal optical coherence tomography (OCT) images is crucial for the diagnosis of glaucoma. A novel graph convolutional network (GCN)-assisted two-stage framework is proposed to simultaneously label the nine retinal layers and the optic disc. Specifically, a multi-scale global reasoning module is inserted between the encoder and decoder of a U-shape neural network to exploit anatomical prior knowledge and perform spatial reasoning. 
+    A novel graph convolutional network (GCN)-assisted two-stage framework is proposed to simultaneously label the nine retinal layers and the optic disc. 
 
     ![](https://raw.githubusercontent.com/Jiaxuan-Li/MGU-Net/main/figs/fig2.png)
 
@@ -24,11 +24,15 @@ Here is a list of projects with data and code source.
 
 - On the spectral leakageand speckle formation in fourier-domain optical coherence tomography, *Optics Letter, 2020.* [[code]](https://github.com/MengyuanWang524/Super-resolution-OCT)
 
+    *Y. Ling, M. Wang, X. Yao, Y. Gan, L. Schmetterer, C. Zhou, and Y. Su*
+
     We report on the investigation of spectral leakage’s impact on the reconstruction of Fourier-domain optical coherence tomography (FD-OCT). We discuss the shift-variant nature introduced by the spectral leakage and develop a novel spatial-domain FD-OCT image formation model. 
 
 - Analyzing three-dimensional ultrastructure of human cervical tissue using optical coherence tomography, *Biomedical Optics Express, vol. 6, no. 4, pp. 1090–1108, Oct. 2015.* [[code]](https://academiccommons.columbia.edu/doi/10.7916/d8-dtb4-6j91)
 
-    We used optical coherence tomography to investigate the directionality and dispersion of collagen fiber bundles in the human cervix. An image analysis tool has been developed, combining a stitching method with a fiber orientation measurement, to study axially sliced cervix samples. This tool was used to analyze the ultrastructure of ex-vivo pregnant and non-pregnant hysterectomy tissue samples taken at the internal os, which is the region of the cervix adjacent to the uterus. 
+    *Y. Gan, W. Yao, K. M. Myers, J. Y. Vink, R. J. Wapner, and C. P. Hendon* 
+
+    We used optical coherence tomography to investigate the directionality and dispersion of collagen fiber bundles in the human cervix. An image analysis tool has been developed, combining a stitching method with a fiber orientation measurement, to study axially sliced cervix samples. 
 
 # Conference proceedings​
 
