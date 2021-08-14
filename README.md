@@ -6,7 +6,7 @@ Here is a list of projects with data and code source.
 
 # Journal manuscript
 
-- Multi-scale GCN-assisted two-stage network for joint segmentation of retinal layers and discs in peripapillary OCT images. *Biomedical Optics Express, 12(4), pp.2204-2220.* [[code]](https://github.com/Jiaxuan-Li/MGU-Net)
+- **Multi-scale GCN-assisted two-stage network for joint segmentation of retinal layers and discs in peripapillary OCT images,** *Biomedical Optics Express, 12(4), pp.2204-2220.* [[code]](https://github.com/Jiaxuan-Li/MGU-Net)
 
     *Li, J., Jin, P., Zhu, J., Zou, H., Xu, X., Tang, M., Zhou, M., Gan, Y., He, J., Ling, Y. and Su, Y.*
 
@@ -14,7 +14,7 @@ Here is a list of projects with data and code source.
 
     ![](https://raw.githubusercontent.com/Jiaxuan-Li/MGU-Net/main/figs/fig2.png)
 
-- Inpainting for saturation artifacts in optical coherence tomog-raphy using dictionary-based sparse representation. *IEEE Photonics Journal, vol. 13, no. 2, pp. 1–10.* [[code]](https://github.com/YGanLab/OCT-Inpainting)
+- **Inpainting for saturation artifacts in optical coherence tomog-raphy using dictionary-based sparse representation,** *IEEE Photonics Journal, vol. 13, no. 2, pp. 1–10.* [[code]](https://github.com/YGanLab/OCT-Inpainting)
 
     *H. Liu, S. Cao, Y. Ling, and Y. Gan*
 
@@ -22,13 +22,13 @@ Here is a list of projects with data and code source.
 
     ![](https://raw.githubusercontent.com/YGanLab/OCT-Inpainting/main/figs/1.JPG)
 
-- On the spectral leakageand speckle formation in fourier-domain optical coherence tomography, *Optics Letter, 2020.* [[code]](https://github.com/MengyuanWang524/Super-resolution-OCT)
+- **On the spectral leakageand speckle formation in fourier-domain optical coherence tomography,** *Optics Letter, 2020.* [[code]](https://github.com/MengyuanWang524/Super-resolution-OCT)
 
     *Y. Ling, M. Wang, X. Yao, Y. Gan, L. Schmetterer, C. Zhou, and Y. Su*
 
     We report on the investigation of spectral leakage’s impact on the reconstruction of Fourier-domain optical coherence tomography (FD-OCT). We discuss the shift-variant nature introduced by the spectral leakage and develop a novel spatial-domain FD-OCT image formation model. 
 
-- Analyzing three-dimensional ultrastructure of human cervical tissue using optical coherence tomography, *Biomedical Optics Express, vol. 6, no. 4, pp. 1090–1108, Oct. 2015.* [[code]](https://academiccommons.columbia.edu/doi/10.7916/d8-dtb4-6j91)
+- **Analyzing three-dimensional ultrastructure of human cervical tissue using optical coherence tomography,** *Biomedical Optics Express, vol. 6, no. 4, pp. 1090–1108, Oct. 2015.* [[code]](https://academiccommons.columbia.edu/doi/10.7916/d8-dtb4-6j91)
 
     *Y. Gan, W. Yao, K. M. Myers, J. Y. Vink, R. J. Wapner, and C. P. Hendon* 
 
@@ -36,7 +36,7 @@ Here is a list of projects with data and code source.
 
 # Conference proceedings​
 
-- Co-seg: An image segmenta-tion framework against label corruption. *IEEE 18th International Symposium on BiomedicalImaging (ISBI), 2021.* [[data & code]](https://github.com/yg2327/Co-Seg)
+- **Co-seg: An image segmenta-tion framework against label corruption,** *IEEE 18th International Symposium on BiomedicalImaging (ISBI), 2021.* [[data & code]](https://github.com/yg2327/Co-Seg)
 
     *Z. Huang, H. Zhang, A. Laine, E. Angelini, C. P. Hendon, and Y. Gan*
 
@@ -44,6 +44,6 @@ Here is a list of projects with data and code source.
 
     ![](https://raw.githubusercontent.com/YGanLab/Software_data/main/figs/coseg.JPG)
 
-- Hydranet: A multi-branch convolutional neuralnetwork architecture for MRI denoising, *SPIE Medical Imaging, 2021.* [[data & code]](https://github.com/stephenhgregory/HydraNet)
+- **Hydranet: A multi-branch convolutional neuralnetwork architecture for MRI denoising,** *SPIE Medical Imaging, 2021.* [[data & code]](https://github.com/stephenhgregory/HydraNet)
 
     *S. Gregory, H. Cheng, S. Newman, and Y. Gan*
